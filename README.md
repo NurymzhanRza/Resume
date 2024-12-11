@@ -22,8 +22,8 @@
 - Знание принципов работы операционных систем и сетевых технологий
 
 ## Контакты
-- **Email:** [example@mail.com](rzamuhannurymzan@gmail.com)
-- **GitHub:** [https://github.com/yourusername](https://github.com/NurymzhanRza)
+- **Email:** [rzamuhannurymzan@gmail.com](rzamuhannurymzan@gmail.com)
+- **GitHub:** [https://github.com/NurymzhanRza](https://github.com/NurymzhanRza)
 
 ## О себе
 Я студент 2-го курса Актюбинского регионального университета имени К. Жубанова, факультет физика-математики. Увлекаюсь программированием, решением математических задач, а также развитием навыков в области вычислительных технологий.
